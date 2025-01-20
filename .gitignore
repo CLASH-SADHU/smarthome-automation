@@ -1,0 +1,20 @@
+# Development Environment
+venv/
+*.pyc
+__pycache__/
+
+# IDE Specific
+.vscode/
+.idea/
+
+# Build Artifacts
+build/
+dist/
+*.egg-info/
+
+# Sensitive Information
+*.env
+*.key
+
+# Dependency Directories
+node_modules/
